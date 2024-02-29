@@ -5,7 +5,7 @@ The project begins with cleaning the data and performing an extensive explorator
 
 Although there is what seems like an infinite amount of experiments that could be conducted, the results from this specific hypotheis were recorded in a dashboard with Tableau for stakeholders. 
 
-## Exploratory Research Questions: 
+## Exploratory Research Questions:  
   • Do countries share the same top ranking artists or songs?
 
   • Is there a correlation between popularity of an artist and being in the top 50 charts?
